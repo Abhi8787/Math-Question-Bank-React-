@@ -1,0 +1,20 @@
+#questionBox {
+    max-width: 575px;
+    height: auto;
+    margin: auto;
+    margin-top: 5%;
+    /* box-shadow: 10px 10px 42px 0px #bd70f1; */
+    border-radius: 10px;
+}
+
+#button1 {
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#button2 {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
